@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YannLoreth
+- 👋 Hi, I’m @YannLoreth, I'm french
 - 👀 I’m interested in Flutter and Dart
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on creating Wod Book app
